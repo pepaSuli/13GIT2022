@@ -1,0 +1,15 @@
+C:\Users\pepa\OneDrive\2022-23\13GIT\ConsoleApp1\Uzemanyag\bin\Debug\net6.0\Uzemanyag.exe
+C:\Users\pepa\OneDrive\2022-23\13GIT\ConsoleApp1\Uzemanyag\bin\Debug\net6.0\Uzemanyag.deps.json
+C:\Users\pepa\OneDrive\2022-23\13GIT\ConsoleApp1\Uzemanyag\bin\Debug\net6.0\Uzemanyag.runtimeconfig.json
+C:\Users\pepa\OneDrive\2022-23\13GIT\ConsoleApp1\Uzemanyag\bin\Debug\net6.0\Uzemanyag.dll
+C:\Users\pepa\OneDrive\2022-23\13GIT\ConsoleApp1\Uzemanyag\bin\Debug\net6.0\Uzemanyag.pdb
+C:\Users\pepa\OneDrive\2022-23\13GIT\ConsoleApp1\Uzemanyag\obj\Debug\net6.0\Uzemanyag.csproj.AssemblyReference.cache
+C:\Users\pepa\OneDrive\2022-23\13GIT\ConsoleApp1\Uzemanyag\obj\Debug\net6.0\Uzemanyag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pepa\OneDrive\2022-23\13GIT\ConsoleApp1\Uzemanyag\obj\Debug\net6.0\Uzemanyag.AssemblyInfoInputs.cache
+C:\Users\pepa\OneDrive\2022-23\13GIT\ConsoleApp1\Uzemanyag\obj\Debug\net6.0\Uzemanyag.AssemblyInfo.cs
+C:\Users\pepa\OneDrive\2022-23\13GIT\ConsoleApp1\Uzemanyag\obj\Debug\net6.0\Uzemanyag.csproj.CoreCompileInputs.cache
+C:\Users\pepa\OneDrive\2022-23\13GIT\ConsoleApp1\Uzemanyag\obj\Debug\net6.0\Uzemanyag.dll
+C:\Users\pepa\OneDrive\2022-23\13GIT\ConsoleApp1\Uzemanyag\obj\Debug\net6.0\refint\Uzemanyag.dll
+C:\Users\pepa\OneDrive\2022-23\13GIT\ConsoleApp1\Uzemanyag\obj\Debug\net6.0\Uzemanyag.pdb
+C:\Users\pepa\OneDrive\2022-23\13GIT\ConsoleApp1\Uzemanyag\obj\Debug\net6.0\Uzemanyag.genruntimeconfig.cache
+C:\Users\pepa\OneDrive\2022-23\13GIT\ConsoleApp1\Uzemanyag\obj\Debug\net6.0\ref\Uzemanyag.dll

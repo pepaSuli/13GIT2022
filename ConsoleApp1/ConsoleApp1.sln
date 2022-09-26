@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{67D8C055-EAA7-4035-ADDF-FEBF92AE6D1D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13GIT", "ConsoleApp1\13GIT.csproj", "{67D8C055-EAA7-4035-ADDF-FEBF92AE6D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uzemanyag", "Uzemanyag\Uzemanyag.csproj", "{14FEA893-37E7-4B18-8BF4-E1919641834E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{67D8C055-EAA7-4035-ADDF-FEBF92AE6D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67D8C055-EAA7-4035-ADDF-FEBF92AE6D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67D8C055-EAA7-4035-ADDF-FEBF92AE6D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14FEA893-37E7-4B18-8BF4-E1919641834E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14FEA893-37E7-4B18-8BF4-E1919641834E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14FEA893-37E7-4B18-8BF4-E1919641834E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14FEA893-37E7-4B18-8BF4-E1919641834E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
